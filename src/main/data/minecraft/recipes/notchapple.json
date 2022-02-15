@@ -1,0 +1,42 @@
+{
+  "group": "tzr",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:scute"
+    },
+    "1": {
+      "item": "minecraft:scute"
+    },
+    "2": {
+      "item": "minecraft:scute"
+    },
+    "3": {
+      "item": "minecraft:pufferfish"
+    },
+    "4": {
+      "item": "minecraft:golden_apple"
+    },
+    "5": {
+      "item": "minecraft:pufferfish"
+    },
+    "6": {
+      "item": "minecraft:poisonous_potato"
+    },
+    "7": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "8": {
+      "item": "minecraft:poisonous_potato"
+    }
+  },
+  "result": {
+    "item": "minecraft:enchanted_golden_apple",
+    "count": 1
+  }
+}
