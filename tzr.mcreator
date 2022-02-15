@@ -23,6 +23,54 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "hai_mian"
+    },
+    {
+      "name": "KuangChe1",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kuang_che_1"
+    },
+    {
+      "name": "KuangChe2",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kuang_che_2"
+    },
+    {
+      "name": "KuangChe3",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kuang_che_3"
+    },
+    {
+      "name": "KuangChe4",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kuang_che_4"
+    },
+    {
+      "name": "FaSheQi",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fa_she_qi"
+    },
+    {
+      "name": "DaDaXiangZi",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "da_da_xiang_zi"
     }
   ],
   "variable_elements": [],
