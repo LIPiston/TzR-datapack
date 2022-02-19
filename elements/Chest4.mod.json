@@ -10,37 +10,37 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": "Blocks.LOG"
+        "value": "Blocks.LOG#3"
       },
       {
-        "value": "Blocks.LOG"
+        "value": "Blocks.LOG#3"
       },
       {
-        "value": "Blocks.LOG"
+        "value": "Blocks.LOG#3"
       },
       {
-        "value": "Blocks.LOG"
+        "value": "Blocks.LOG#3"
       },
       {
         "value": ""
       },
       {
-        "value": "Blocks.LOG"
+        "value": "Blocks.LOG#3"
       },
       {
-        "value": "Blocks.LOG"
+        "value": "Blocks.LOG#3"
       },
       {
-        "value": "Blocks.LOG"
+        "value": "Blocks.LOG#3"
       },
       {
-        "value": "Blocks.LOG"
+        "value": "Blocks.LOG#3"
       }
     ],
     "recipeReturnStack": {
       "value": "Blocks.CHEST"
     },
-    "name": "da_da_xiang_zi",
+    "name": "chest_4",
     "namespace": "minecraft"
   }
 }

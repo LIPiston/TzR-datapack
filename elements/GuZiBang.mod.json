@@ -10,37 +10,37 @@
     "recipeShapeless": true,
     "recipeSlots": [
       {
-        "value": ""
-      },
-      {
-        "value": "Items.SLIME_BALL"
+        "value": "Items.BONE"
       },
       {
         "value": ""
       },
       {
-        "value": "Items.PRISMARINE_SHARD"
-      },
-      {
-        "value": "Items.PRISMARINE_SHARD"
-      },
-      {
-        "value": "Items.PRISMARINE_SHARD"
+        "value": ""
       },
       {
         "value": ""
       },
       {
-        "value": "Items.PRISMARINE_CRYSTALS"
+        "value": "Items.BONE"
       },
       {
         "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.BONE"
       }
     ],
     "recipeReturnStack": {
-      "value": "Blocks.SPONGE#0"
+      "value": "Blocks.BONE_BLOCK"
     },
-    "name": "hai_mian",
+    "name": "gu_zi_bang",
     "namespace": "minecraft"
   }
 }

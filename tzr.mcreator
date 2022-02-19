@@ -65,12 +65,156 @@
       "registry_name": "fa_she_qi"
     },
     {
-      "name": "DaDaXiangZi",
+      "name": "Chest1",
       "type": "recipe",
       "sortid": 10,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "da_da_xiang_zi"
+      "registry_name": "chest_1",
+      "path": "~/chest"
+    },
+    {
+      "name": "Chest2",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chest_2",
+      "path": "~/chest"
+    },
+    {
+      "name": "Chest3",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chest_3",
+      "path": "~/chest"
+    },
+    {
+      "name": "Chest4",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chest_4",
+      "path": "~/chest"
+    },
+    {
+      "name": "Chest5",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chest_5",
+      "path": "~/chest"
+    },
+    {
+      "name": "Chest6",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chest_6",
+      "path": "~/chest"
+    },
+    {
+      "name": "Chest7",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chest_7",
+      "path": "~/chest"
+    },
+    {
+      "name": "Chest8",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chest_8",
+      "path": "~/chest"
+    },
+    {
+      "name": "Chest9",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chest_9",
+      "path": "~/chest"
+    },
+    {
+      "name": "Chest10",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chest_10",
+      "path": "~/chest"
+    },
+    {
+      "name": "Chest11",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chest_11",
+      "path": "~/chest"
+    },
+    {
+      "name": "Chest12",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chest_12",
+      "path": "~/chest"
+    },
+    {
+      "name": "Chest13",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chest_13",
+      "path": "~/chest"
+    },
+    {
+      "name": "Chest14",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chest_14",
+      "path": "~/chest"
+    },
+    {
+      "name": "Chest15",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chest_15",
+      "path": "~/chest"
+    },
+    {
+      "name": "Chest16",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chest_16",
+      "path": "~/chest"
+    },
+    {
+      "name": "GuZiBang",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gu_zi_bang"
     }
   ],
   "variable_elements": [],
@@ -80,7 +224,12 @@
   },
   "foldersRoot": {
     "name": "~",
-    "children": []
+    "children": [
+      {
+        "name": "chest",
+        "children": []
+      }
+    ]
   },
   "workspaceSettings": {
     "modid": "tzr",
