@@ -1,46 +1,46 @@
 {
-  "_fv": 24,
+  "_fv": 28,
   "_type": "recipe",
   "definition": {
     "recipeType": "Crafting",
     "xpReward": 0.0,
     "cookingTime": 200,
     "recipeRetstackSize": 1,
-    "group": "tzr",
+    "group": "",
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": "Items.SCUTE"
+        "value": "Items.FISH#3"
       },
       {
-        "value": "Items.SCUTE"
-      },
-      {
-        "value": "Items.SCUTE"
+        "value": "Items.POISONOUS_POTATO"
       },
       {
         "value": "Items.FISH#3"
+      },
+      {
+        "value": "Blocks.GOLD_BLOCK"
       },
       {
         "value": "Items.GOLDEN_APPLE#0"
       },
       {
-        "value": "Items.FISH#3"
+        "value": "Blocks.GOLD_BLOCK"
       },
       {
-        "value": "Items.POISONOUS_POTATO"
+        "value": "Items.SCUTE"
       },
       {
-        "value": "Items.AMETHYST_SHARD"
+        "value": "Items.SCUTE"
       },
       {
-        "value": "Items.POISONOUS_POTATO"
+        "value": "Items.SCUTE"
       }
     ],
     "recipeReturnStack": {
       "value": "Items.GOLDEN_APPLE#1"
     },
     "name": "notchapple",
-    "namespace": "minecraft"
+    "namespace": "mod"
   }
 }

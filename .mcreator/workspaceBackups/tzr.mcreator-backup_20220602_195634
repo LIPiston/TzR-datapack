@@ -39,22 +39,6 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "pw_kuang_che"
-    },
-    {
-      "name": "ChestKuangChe",
-      "type": "recipe",
-      "sortid": 6,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chest_kuang_che"
-    },
-    {
-      "name": "LouDouKuangChe",
-      "type": "recipe",
-      "sortid": 7,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "lou_dou_kuang_che"
     }
   ],
   "variable_elements": [],

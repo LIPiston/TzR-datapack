@@ -1,5 +1,4 @@
 {
-  "group": "tzr",
   "type": "minecraft:crafting_shaped",
   "pattern": [
     "012",
@@ -8,31 +7,31 @@
   ],
   "key": {
     "0": {
-      "item": "minecraft:scute"
+      "item": "minecraft:pufferfish"
     },
     "1": {
-      "item": "minecraft:scute"
+      "item": "minecraft:poisonous_potato"
     },
     "2": {
-      "item": "minecraft:scute"
+      "item": "minecraft:pufferfish"
     },
     "3": {
-      "item": "minecraft:pufferfish"
+      "item": "minecraft:gold_block"
     },
     "4": {
       "item": "minecraft:golden_apple"
     },
     "5": {
-      "item": "minecraft:pufferfish"
+      "item": "minecraft:gold_block"
     },
     "6": {
-      "item": "minecraft:poisonous_potato"
+      "item": "minecraft:scute"
     },
     "7": {
-      "item": "minecraft:amethyst_shard"
+      "item": "minecraft:scute"
     },
     "8": {
-      "item": "minecraft:poisonous_potato"
+      "item": "minecraft:scute"
     }
   },
   "result": {

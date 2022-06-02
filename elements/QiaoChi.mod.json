@@ -1,16 +1,19 @@
 {
-  "_fv": 24,
+  "_fv": 28,
   "_type": "recipe",
   "definition": {
     "recipeType": "Crafting",
     "xpReward": 0.0,
     "cookingTime": 200,
     "recipeRetstackSize": 1,
-    "group": "tzr",
+    "group": "",
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": "Items.PHANTOM_MEMBRANE"
+        "value": "Items.SHULKER_SHELL"
+      },
+      {
+        "value": "Items.SHULKER_SHELL"
       },
       {
         "value": "Items.SHULKER_SHELL"
@@ -19,10 +22,7 @@
         "value": "Items.PHANTOM_MEMBRANE"
       },
       {
-        "value": "Items.PHANTOM_MEMBRANE"
-      },
-      {
-        "value": "Items.CHORUS_FRUIT_POPPED"
+        "value": "Items.LEATHER"
       },
       {
         "value": "Items.PHANTOM_MEMBRANE"
@@ -31,7 +31,7 @@
         "value": "Items.FEATHER"
       },
       {
-        "value": "Items.SHULKER_SHELL"
+        "value": ""
       },
       {
         "value": "Items.FEATHER"
@@ -41,6 +41,6 @@
       "value": "Items.ELYTRA"
     },
     "name": "qiao_chi",
-    "namespace": "minecraft"
+    "namespace": "mod"
   }
 }

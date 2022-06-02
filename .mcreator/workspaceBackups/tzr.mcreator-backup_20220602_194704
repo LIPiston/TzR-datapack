@@ -15,46 +15,6 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "notchapple"
-    },
-    {
-      "name": "HaiMian",
-      "type": "recipe",
-      "sortid": 3,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "hai_mian"
-    },
-    {
-      "name": "TntKuangChe",
-      "type": "recipe",
-      "sortid": 4,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "tnt_kuang_che"
-    },
-    {
-      "name": "PwKuangChe",
-      "type": "recipe",
-      "sortid": 5,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "pw_kuang_che"
-    },
-    {
-      "name": "ChestKuangChe",
-      "type": "recipe",
-      "sortid": 6,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chest_kuang_che"
-    },
-    {
-      "name": "LouDouKuangChe",
-      "type": "recipe",
-      "sortid": 7,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "lou_dou_kuang_che"
     }
   ],
   "variable_elements": [],

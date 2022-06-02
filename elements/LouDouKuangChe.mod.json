@@ -7,24 +7,9 @@
     "cookingTime": 200,
     "recipeRetstackSize": 1,
     "group": "",
-    "recipeShapeless": true,
+    "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": "Items.PRISMARINE_SHARD"
-      },
-      {
-        "value": "Items.PRISMARINE_SHARD"
-      },
-      {
-        "value": ""
-      },
-      {
-        "value": "Items.PRISMARINE_CRYSTALS"
-      },
-      {
-        "value": "Items.SLIME_BALL"
-      },
-      {
         "value": ""
       },
       {
@@ -34,13 +19,28 @@
         "value": ""
       },
       {
-        "value": ""
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": "Blocks.HOPPER"
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": "Items.IRON_INGOT"
       }
     ],
     "recipeReturnStack": {
-      "value": "Blocks.SPONGE#0"
+      "value": "Items.HOPPER_MINECART"
     },
-    "name": "hai_mian",
+    "name": "lou_dou_kuang_che",
     "namespace": "mod"
   }
 }
